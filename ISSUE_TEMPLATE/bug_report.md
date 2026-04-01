@@ -28,7 +28,7 @@ Describe the expected behavior.
 ### Desktop
  - Client: [e.g. web, windows]
  - Browser: [e.g. chrome, brave]
- - Version 1.0.0.0
+ - Version [e.g. 1.0.0.0]
 
 ### Smartphone
  - Client: [e.g. web, android]
