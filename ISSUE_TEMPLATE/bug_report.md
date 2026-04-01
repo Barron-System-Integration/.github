@@ -32,15 +32,15 @@ Describe the expected behavior.
 
 ### Smartphone
  - Client: [e.g. web, android]
- - Device: [e.g. S24 Ultra]
- - OS: [e.g. Android 23]
+ - Device: [e.g. Galaxy S24 Ultra]
+ - OS: [e.g. Android 16]
  - Browser: [e.g. chrome, brave]
  - Version [e.g. 1.0.0.0]
 
 ### Tablet
  - Client: [e.g. web, android]
- - Device: [e.g. TabA3]
- - OS: [e.g. Android 23]
+ - Device: [e.g. Galaxy TabA3]
+ - OS: [e.g. Android 16]
  - Browser: [e.g. chrome, brave]
  - Version [e.g. 1.0.0.0]
 
